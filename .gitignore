@@ -1,0 +1,9 @@
+# build output
+bin/
+
+# test data
+test-input/
+out.txt
+
+# macOS
+.DS_Store
